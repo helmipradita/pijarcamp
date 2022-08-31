@@ -1,1 +1,1 @@
-![Alt text](images/Tampil Produk.png?raw=true "Title")
+![alt text](https://github.com/helmipradita/pijarcamp/blob/main/images/Edit%20Produk.png)
